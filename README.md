@@ -19,7 +19,6 @@ This ASP.NET Core Web API project fetches current weather data from the OpenWeat
 
 Update `appsettings.json`:
 
-```json
 {
   "OpenWeather": {
     "ApiKey": "your_openweather_api_key"
